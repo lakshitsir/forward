@@ -1,0 +1,13 @@
+{
+  "name": "hybrid-forwarder-bot",
+  "version": "1.0.0",
+  "description": "Serverless Hybrid Telegram Extractor",
+  "main": "api/bot.js",
+  "scripts": {
+    "start": "node api/bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  }
+}
+
